@@ -39,7 +39,7 @@ class _MyHomePageState extends State<MyHomePage> {
             SizedBox(
               width: double.infinity,
               child: Text(
-                'Text from feature 1',
+                'Text from feature 2',
                 style: TextStyle(fontSize: 20),
                 textAlign: TextAlign.center,
               ),
