@@ -36,6 +36,14 @@ class _MyHomePageState extends State<MyHomePage> {
                 textAlign: TextAlign.center,
               ),
             ),
+            SizedBox(
+              width: double.infinity,
+              child: Text(
+                'Text from feature 1',
+                style: TextStyle(fontSize: 20),
+                textAlign: TextAlign.center,
+              ),
+            ),
           ],
         ),
       ),
