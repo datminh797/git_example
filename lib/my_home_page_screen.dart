@@ -31,7 +31,7 @@ class _MyHomePageState extends State<MyHomePage> {
             SizedBox(
               width: double.infinity,
               child: Text(
-                'Text from main 1',
+                'Text from main 2',
                 style: TextStyle(fontSize: 20),
                 textAlign: TextAlign.center,
               ),
